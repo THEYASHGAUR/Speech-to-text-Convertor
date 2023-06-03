@@ -38,12 +38,15 @@ To run the application locally, follow these steps:
 
    ```
    npm install
+   npm i react-speech-recognition 
+    npm i react-use-clipboard
+    npm i regenerator-runtime
    ```
 
 4. Start the development server:
 
    ```
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and visit `http://localhost:3000` to access the application.
