@@ -38,8 +38,17 @@ To run the application locally, follow these steps:
 
    ```
    npm install
+   ```
+
+   ```
    npm i react-speech-recognition 
-    npm i react-use-clipboard
+   ```
+
+   ```
+   npm i react-use-clipboard
+    ```
+
+    ```
     npm i regenerator-runtime
    ```
 
