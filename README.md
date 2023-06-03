@@ -16,7 +16,7 @@ This is a simple Speech-to-Text Converter application built using React.js. It a
 
 ## Demo
 
-You can try out the live demo of the Speech-to-Text Converter application [here](https://theyashgaur.github.io/Speech-to-text-Convertor/).
+You can try out the live demo of the Speech-to-Text Converter application [here](https://speech-to-text-convertor-yg.netlify.app/).
 
 ## Installation
 
