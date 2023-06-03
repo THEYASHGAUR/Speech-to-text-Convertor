@@ -70,7 +70,7 @@ To run the application locally, follow these steps:
 ## Technologies Used
 
 - React.js
-- Web Speech API
+- Speech Recognition Library
 
 ## Contributions
 
